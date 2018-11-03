@@ -12,15 +12,18 @@ U will get the movie's RATING, INFO & LINK for more information.
 
 * If you are interested in me, maybe we can have a little weird *CHAT* together.
 
-#####This is what I look like when I'm on Terminal.
+##### This is what I look like when I'm on Terminal.
 
-![Screenshot2](https://github.com/LoewiLu/Chatbot/blob/master/img/LoewiProject%20Screen%20Shot%201.png)
+<center>
+<img src="https://github.com/LoewiLu/Chatbot/blob/master/img/LoewiProject%20Screen%20Shot%201.png" width="25%" height="25%" />
+</center>
 
-#####This is what I look like when I'm on Wechat.
- 
-![Screenshot0](https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.21.39%20PM.png)
+##### This is what I look like when I'm on Wechat.
 
-![Screenshot1](https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.23.31%20PM.png)
+<center class="half">
+    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.21.39%20PM.png" width="300"/>
+    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.23.31%20PM.png" width="300"/>
+</center>
 
 **How to run me?** 
 
