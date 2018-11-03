@@ -15,15 +15,15 @@ U will get the movie's RATING, INFO & LINK for more information.
 ##### This is what I look like when I'm on Terminal.
 
 <center>
-<img src="https://github.com/LoewiLu/Chatbot/blob/master/img/LoewiProject%20Screen%20Shot%201.png" width="25%" height="25%" />
+<img src="https://github.com/LoewiLu/Chatbot/blob/master/img/LoewiProject%20Screen%20Shot%201.png" width="25%" />
 </center>
 
 ##### This is what I look like when I'm on Wechat.
 
-<center class="half">
-    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.21.39%20PM.png" width="300"/>
-    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.23.31%20PM.png" width="300"/>
-</center>
+<figure class="half">
+    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.21.39%20PM.png" width="25%"/>
+    <img src="https://github.com/LoewiLu/Chatbot/blob/master/img/Screen%20Shot%202018-08-01%20at%2010.23.31%20PM.png" width="25%"/>
+</figure>
 
 **How to run me?** 
 
