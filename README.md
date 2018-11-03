@@ -30,8 +30,7 @@ U will get the movie's RATING, INFO & LINK for more information.
 
 - Components explanation：
 
-	`MovieAdapter.py` includes two [LogicAdapters]
-	(https://chatterbot.readthedocs.io/en/stable/logic/)
+	`MovieAdapter.py` includes two [LogicAdapters](https://chatterbot.readthedocs.io/en/stable/logic/)
 	
 	`tokenise.py` is for tokenization and maximum matching
 	
