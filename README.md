@@ -41,3 +41,6 @@ U will get the movie's RATING, INFO & LINK for more information.
 	`wechat_load.py` using data from your own Wechat dumps yml files,(private/deleted)
 	
 	`myCorpus` is for all yml files
+
+
+For more information: https://chatterbot.readthedocs.io/en/stable/index.html#
